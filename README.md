@@ -7,11 +7,15 @@ sections of build.xml that I don't care about for that particular
 project, set the project properties, clear out the sample sources, and
 get to work.
 
+okay
+
 ## Setup
 
 Building this project requires that Ivy be available to Ant. All you
 need is ivy.jar in Ant's classpath (in your `$CLASSPATH`,
 `$ANT_HOME/lib`, or `~/.ant/lib`).
+
+Ok
 
 ## Dependencies
 
@@ -37,6 +41,9 @@ creates a `bundle.jar` containing your project's signed artifacts. To
 use the "bundle" target you need to have GnuPG set up in your path, a
 generated key pair, and a running `gpg-agent`, unless you like typing
 your passphrase a bunch of times in a row.
+
+
+updating one paragraph
 
 ## Philosophy
 
