@@ -38,6 +38,9 @@ use the "bundle" target you need to have GnuPG set up in your path, a
 generated key pair, and a running `gpg-agent`, unless you like typing
 your passphrase a bunch of times in a row.
 
+
+updating one paragraph
+
 ## Philosophy
 
 I hate coding absolute paths in my build script and I hate including
